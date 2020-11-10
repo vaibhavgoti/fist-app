@@ -4,4 +4,4 @@ console.log('hello2 .js');
 //git push origin 
 
 //git checkout -b copybranch
-//git switch main
+//git switch maingit 
