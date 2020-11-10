@@ -1,0 +1,82 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* custom CSS */
+.mfp-content img.mfp-img{padding:10px 0 10px}
+.woocommerce-product-gallery__wrapper .bpgPhoto {
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.woocommerce-product-gallery__wrapper .bpgPhoto .captionPane>a {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    HEIGHT: 100%;
+}
+.aboutp p{
+    text-align: justify !important;
+}
+section.boldSection.btComments.gutter.topSmallSpaced.bottomSpaced {
+    padding-bottom: 1em;
+}
+#homepage_contact_captcha {
+    border: 0px;
+    font-size: 37px;
+    color: #333;
+    width: 92%;
+    text-align: right;
+    display: inherit;
+    position: relative;
+    top: 25px;
+    right:20px;
+}
+.captcha_image {
+    float: left;
+    margin-right: 2%;
+    width: 48%;
+    text-align: right;
+}
+a#refresh {
+    position: relative;
+    top: -8px;
+}
+.captcha_code {
+    float: left;
+    text-align: left;
+    width: 50%;
+}
+#homepage_contact_captcha_code {
+    padding: 12px;
+    border: 1px solid #d3d3d3;
+    border-radius: 3px;
+    width: 40%;
+	font-family: 'Open Sans';
+	font-size: 15px;
+	color:#686868;
+}
+.mainHeader .btLogoArea .logo img{height:34px;}
+#wearehaviblk .we_havi h1 .headline
+{font-size:55px;color:red;}
+/*#wearehaviblk .century_nm h1 .headline {font-size:42px;color:#000;}*/
+#skills .header.large .btSubTitle {
+    font-size: 1.26em;
+}
+#elementsblk  .header.large .btSubTitle {
+    font-size: 1.26em;
+}
+#elementsblk  .header.large .btSubTitle {
+    font-size: 1.26em;margin-bottom:1.45em;
+}
+#elementsblk  .elemnts_left_sec.header.large .btBtn
+{margin-bottom:1.75em;}
+#skills .makes_fan_ready .btText p {
+    font-size: 18px;
+    font-weight: 600;
+}</style>
+<!-- end Simple Custom CSS and JS -->
